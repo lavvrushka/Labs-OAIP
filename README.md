@@ -25,4 +25,4 @@
 1. Клонируйте репозиторий на свой локальный компьютер:
 
    ```bash
-   git clone https://github.com/your-username/oaip-labs.git
+   git clone https://github.com/bebrik2008/oaip-labs.git
